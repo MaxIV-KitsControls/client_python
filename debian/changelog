@@ -1,0 +1,5 @@
+python-prometheus-client (0.1.0) unstable; urgency=low
+
+  * Debian files added, ready to build .deb package for lucid 10.04
+
+ -- Vasileios Martos <vasileios.martos@maxiv.lu.se>  Thu, 19 Jan 2017 18:47:29 +0100

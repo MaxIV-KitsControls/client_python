@@ -1,0 +1,10 @@
+Source: python-prometheus-client
+Maintainer: Brian Brazi <brian.brazil@robustperception.io>
+Homepage: https://github.com/prometheus/client_python
+Build-Depends: debhelper,
+               python
+
+Package: python-prometheus-client
+Architecture: i386
+Depends: python
+Description: Python client for the Prometheus monitoring system.
